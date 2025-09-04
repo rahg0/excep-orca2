@@ -1,0 +1,3 @@
+secret_detection:
+  excluded_paths:
+    - "./scripts/python/http_header_exc_test.py"
